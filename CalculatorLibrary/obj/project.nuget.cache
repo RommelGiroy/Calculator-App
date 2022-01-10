@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRzKc4rHx+VkCVKLat1+Xf9rTCyNEB8weHY2wOGXR1EJtjHb9jxd1hX7r0BKT2YZPKbdFfxZ63szOb2R/QDegQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Oswald\\source\\repos\\CalculatorApp\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CalculatorUI is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project CalculatorUI supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "CalculatorUI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

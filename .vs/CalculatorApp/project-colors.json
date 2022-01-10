@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c6af5fe-63c3-440e-ad67-45580d22407f": {
+      "ProjectGuid": "3c6af5fe-63c3-440e-ad67-45580d22407f",
+      "DisplayName": "CalculatorUI",
+      "ColorIndex": 0
+    },
+    "f603ad5f-5dc1-4d68-8909-47d6c7fed41e": {
+      "ProjectGuid": "f603ad5f-5dc1-4d68-8909-47d6c7fed41e",
+      "DisplayName": "CalculatorLibrary",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
